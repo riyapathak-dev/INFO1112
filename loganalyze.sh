@@ -1,5 +1,6 @@
 #!/bin/bash
-#!/bin/bash
+
+#this comment added from github
 if [ "$#" -eq 0 ] 
 then 
     argument_dir=$(pwd)
